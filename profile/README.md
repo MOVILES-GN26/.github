@@ -2,7 +2,7 @@
 
 
 ### Relevant Links
-[Wiki's main page](https://github.com/MOVILES-GN26/Wiki)
+[Wiki's main page](https://github.com/MOVILES-GN26/Wiki/wiki)
 
 [Flutter Repository](https://github.com/MOVILES-GN26/Flutter)
 
