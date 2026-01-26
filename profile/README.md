@@ -19,5 +19,5 @@
 |  |  | |  | 
 |  |  |  |  | 
 |  |  | |  |
-| Adriana Sofía Rozo Cepeda| |  | |
+| Adriana Sofía Rozo Cepeda| 202211498 | as.rozo@uniandes.edu.co | sofrozo |
 | Nicolás Miguel Murillo Cristancho | 202213891 | n.murilloc@uniandes.edu.co | nicolas23589 | 
