@@ -16,7 +16,7 @@
 
 | Name | Code | E-mail | GitHub username |
 | - | - | - | - |
-| Ximena  |  | |  | 
+| Angie Ximena Lopez Cruz | 202312848 | ax.lopez@uniandes.edu.co | ximelocru11 | 
 | María Juliana Ballesteros Estupiñán | 202313216 | mj.ballesteros@uniandes.edu.co | Julianaba7 | 
 | Santiago Pineda Quintero | 202023262 | s.pinedaq@uniandes.edu.co | santi-pine03 |
 | Adriana Sofía Rozo Cepeda| 202211498 | as.rozo@uniandes.edu.co | sofrozo |
